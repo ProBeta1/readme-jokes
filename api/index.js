@@ -1,5 +1,16 @@
 const { clampValue, CONSTANTS } = require('../src/utils');
-let jokes = require('../src/jokes.json');
+let jokes = [
+	{
+		"q": "Relationship status?",
+		"a": "I'll leave the relations to the database.",
+		"form": "qa"
+	},
+	{
+		"q": "How do you get the code for the bank vault?",
+		"a": "You checkout their branch.",
+		"form": "qa"
+	},
+]
 
 // Max cache age (Currently = 60 seconds)
 const cacheSeconds = CONSTANTS.TEN_SECONDS;
