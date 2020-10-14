@@ -15,6 +15,10 @@ let jokes = [
 		"a": "They <code>return</code>ed <code>true</code>!",
 		"form": "qa"
 	}
+		"q": "What do you call a busy waiter?",
+		"a": "A server.",
+		"form": "qa"
+	},
 ]
 
 // Max cache age (Currently = 60 seconds)
