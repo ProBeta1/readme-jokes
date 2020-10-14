@@ -11,6 +11,10 @@ let jokes = [
 		"form": "qa"
 	},
 	{
+		"q": "How did the developer announce their engagement?",
+		"a": "They <code>return</code>ed <code>true</code>!",
+		"form": "qa"
+	}
 		"q": "What do you call a busy waiter?",
 		"a": "A server.",
 		"form": "qa"
